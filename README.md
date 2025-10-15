@@ -10,6 +10,7 @@ We present qualitative comparisons between our generated talking heads (Center) 
 
 
 ### Example 1: 
+https://github.com/user-attachments/assets/3c1edc2e-e193-434a-80bf-9a84bc4c37cd
 
 
 ### Example 2: 
